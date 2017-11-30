@@ -1,5 +1,5 @@
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">Splash</span>
 
@@ -13,7 +13,7 @@
 ### <span class="gold">SSH keys</span>
 
 +++
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">Checking for existing SSH keys</span>
 
@@ -31,7 +31,7 @@ ls -al ~/.ssh
 
 +++
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">Generate a SSH key</span>
 
@@ -47,7 +47,7 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 +++
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">Testing connection</span>
 
@@ -66,7 +66,7 @@ provide shell access.
 
 +++
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">You may see this warning</span>
 
@@ -82,7 +82,7 @@ Are you sure you want to continue connecting (yes/no)?
 
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">SSH Config File Structure</span>
 
@@ -94,7 +94,7 @@ Are you sure you want to continue connecting (yes/no)?
 
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">Location of the SSH Client Config File</span>
 
@@ -112,7 +112,7 @@ Often, this file is not created by default, so you may need to create it yoursel
 
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">Configuration File Structure</span>
 
@@ -146,7 +146,7 @@ Host *
 
 +++
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">Host</span>
 
@@ -163,7 +163,7 @@ Host *
 
 +++
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">HostName</span>
 
@@ -181,7 +181,7 @@ Host *
 
 +++
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">User</span>
 
@@ -200,7 +200,7 @@ Host *
 
 +++
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">Port</span>
 
@@ -222,7 +222,7 @@ Only necessary if the remote SSH is not running on the default port 22. <!-- .el
 
 +++
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">IdentityFile</span>
 
@@ -251,7 +251,7 @@ If your keys are in the default locations, each will be tried and you will not n
 
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">Example 2</span>
 
@@ -273,7 +273,7 @@ ssh github_personal
 
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">Example 3</span>
 
@@ -295,7 +295,7 @@ ssh github_work
 
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">Example 1</span>
 
@@ -316,7 +316,7 @@ ssh raspberry
 
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 <span class="menu-title" style="display: none">References</span>
 
@@ -330,16 +330,16 @@ ssh raspberry
 
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/thats_all.gif" data-background-size="100% 100%" -->
+---?image=assets/thats_all.gif
 
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 ### <span class="gold">I don't believe in live demos but...</span>
 
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/bg_stars.png" data-background-size="100% 100%" -->
+---?image=assets/bg_stars.jpg
 
 ### <span class="gold">DEMO</span>
